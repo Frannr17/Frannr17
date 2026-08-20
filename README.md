@@ -210,7 +210,6 @@ with an additional specialization in:
 
 I'm continuously expanding my technical capabilities through structured learning and hands-on practice.
 
-
 ### AI & Orchestration
 
 Currently studying:
@@ -236,6 +235,10 @@ Currently studying:
 - Cloud Security
 - AWS Security
 - Azure Security
+
+### Completed
+
+- Google Cybersecurity Professional Certificate — Google / Coursera
 
 ---
 
