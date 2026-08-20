@@ -1,115 +1,71 @@
-███████████████████████████████████████████████████
+# 👋 Hi, I'm Francisco Rodríguez
 
-                                          FRANCISCO RODRÍGUEZ
+### Cybersecurity | Blue Team | Threat Hunting | AI Orchestration
 
-                                      JUNIOR CYBERSECURITY ANALYST
+I'm an junior cybersecurity professional based in Mexico, building a career focused on **defensive security, threat detection, investigation, and security automation**.
 
-                                Linux • Python • SQL • SOC • Blue Team
+My background combines **business development, multilingual communication, analytical problem-solving, and cybersecurity training**, giving me a multidisciplinary perspective that I aim to apply to security operations and threat-focused roles.
 
-                                "Continuous learning. Practical security."
- 
-███████████████████████████████████████████████████
+Currently, I'm strengthening my cybersecurity foundation while expanding into **AI agents, AI orchestration, and security automation**.
 
-
-# 👋 Welcome to my Cybersecurity Portfolio
-
-
-This repository showcases hands-on projects completed throughout my cybersecurity learning journey, covering areas such as Linux administration, SQL, Python automation, risk management, incident response, identity and access management (IAM), and threat modeling.
-
-Each project demonstrates practical cybersecurity concepts aligned with industry frameworks and best practices while documenting my approach, methodology, and key technical takeaways.
-
-
------------------
-
-
-![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?logo=linux&logoColor=black)
-
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=mysql&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20Team-darkblue)
-
-![SOC](https://img.shields.io/badge/SOC-Analyst-blue)
-
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?logo=google&logoColor=white)
-
+> **My long-term goal:** combine cybersecurity expertise with intelligent automation to improve threat detection, investigation, and response.
 
 ---
 
-## 🚀 About Me
+## 🛡️ Cybersecurity Focus
 
-I'm an aspiring Cybersecurity Analyst currently based in Mexico with a strong passion for Blue Team operations, security analysis, and continuous learning.
+My current cybersecurity interests include:
 
-My professional background combines business development, multilingual communication, and technical problem-solving. I'm currently expanding my cybersecurity knowledge through hands-on labs, portfolio projects, and industry certifications.
+- 🔎 Threat Hunting
+- 🧠 Threat Intelligence
+- 🚨 Security Operations (SOC)
+- 🕵️ Incident Investigation
+- 📊 Log Analysis
+- 🛡️ Blue Team Operations
+- 🔐 Identity & Access Management
+- ⚠️ Vulnerability Management
+- 🎯 Threat Modeling
+- 🤖 Security Automation
+- ☁️ Cloud Security
 
-I enjoy understanding how systems work, identifying potential security risks, and developing practical solutions to improve an organization's security posture.
-
----
-
-## 🎯 Career Objective
-
-My goal is to begin my professional career as a Cybersecurity Analyst within a Security Operations Center (SOC), where I can contribute to incident detection, investigation, threat analysis, and continuous security improvement.
-
-I am particularly interested in:
-
-- Security Operations Center (SOC)
-- Incident Response
-- Threat Detection
-- Log Analysis
-- Vulnerability Management
-- Security Automation
-- Blue Team Operations
+I'm particularly interested in understanding **how attackers operate, how their activity can be detected, and how security teams can use automation and intelligence to respond more effectively.**
 
 ---
 
+## 🤖 AI & Orchestration
 
-## ⭐ Highlights
+I'm currently expanding my technical knowledge into **AI agents and orchestration**, with the goal of understanding how intelligent systems can be applied to real-world operational and cybersecurity workflows.
 
+Areas I'm exploring include:
 
-✔ Hands-on Cybersecurity Portfolio
+- AI Agents
+- Agent Orchestration
+- LLM-based workflows
+- Tool use and function calling
+- Workflow automation
+- AI-assisted security analysis
+- Security Operations automation
+- AI + Cybersecurity
 
-✔ Linux | Python | SQL
+My goal is not simply to learn AI as a standalone technology, but to understand how **AI-driven workflows can augment human analysts and automate repetitive security tasks**.
 
-✔ Blue Team mindset
+---
 
-✔ Security Operations (SOC)
-
-✔ 6 Spoken Languages
-
-✔ Continuous Learner
-
-
-----------------
-
-## 🛠 Technical Skills
-
-### Operating Systems
-
-- Linux
-- Windows
-
-### Programming & Query Languages
-
-- Python
-- SQL
-- Bash (Basic)
+## 💻 Technical Skills
 
 ### Cybersecurity
 
-- Linux Administration
-- Access Control
-- Identity and Access Management (IAM)
-- Risk Assessment
+- Security Operations
+- Incident Response
 - Threat Modeling
 - Vulnerability Assessment
-- Incident Response
-- Log Analysis
+- Risk Assessment
+- Access Control
+- Identity & Access Management (IAM)
 - Security Awareness
+- Log Analysis
+- Threat Detection
+- Blue Team Fundamentals
 
 ### Networking
 
@@ -117,121 +73,232 @@ I am particularly interested in:
 - IPv4
 - DNS
 - HTTP/HTTPS
+- Network Traffic Analysis
 
-### Security Concepts
-
-- CIA Triad
-- Principle of Least Privilege
-- Defense in Depth
-- Separation of Duties
-- Multi-Factor Authentication (MFA)
-- Role-Based Access Control (RBAC)
-
----
-
-## 💻 Tools & Technologies
+### Systems
 
 - Linux
+- Windows
+- Linux Administration
+- File Permissions
+- Access Control
+
+### Programming & Query Languages
+
 - Python
 - SQL
+- Bash
+
+### Tools & Technologies
+
 - Git
 - GitHub
 - MySQL
-- Bash
-- Visual Studio Code
-
-Currently learning:
-
-- Splunk
 - Wireshark
-- SIEM
-- Google Cloud Security
+- tcpdump
+- Splunk
+- Visual Studio Code
+- SIEM technologies
+
+### Frameworks & Security Concepts
+
+- NIST Cybersecurity Framework
+- CIA Triad
+- Defense in Depth
+- Principle of Least Privilege
+- Role-Based Access Control (RBAC)
+- Multi-Factor Authentication (MFA)
+- Separation of Duties
+- PASTA Threat Modeling
 
 ---
 
-## 🌎 Languages
+## 📂 Cybersecurity Portfolio
 
-One of my strengths is the ability to work in multilingual environments.
+My cybersecurity portfolio contains hands-on projects covering different areas of defensive security and security analysis.
 
-| Language | Proficiency |
-|-----------|------------|
-| Spanish | Native |
-| English | Fluent C1 |
-| French | Fluent C1 |
-| Portuguese | Intermediate B2 |
-| Italian | Intermediate B2 |
-| German | Basic A2-B1 |
+### 🔹 Security Operations & Investigation
+
+- **Apply Filters to SQL Queries**
+  - SQL
+  - Log analysis
+  - Security investigation
+
+- **Incident Final Report**
+  - Incident response
+  - Investigation
+  - Security documentation
+
+### 🔹 Threat Modeling & Risk
+
+- **PASTA Threat Model**
+  - Threat modeling
+  - Risk identification
+  - Security architecture
+
+- **Risk Register**
+  - Risk assessment
+  - Risk management
+  - Risk prioritization
+
+- **Parking Lot USB Exercise**
+  - Social engineering
+  - Physical security
+  - Risk analysis
+
+### 🔹 Vulnerability & Security Assessment
+
+- **Vulnerability Assessment Report**
+  - Vulnerability identification
+  - Risk evaluation
+  - Remediation recommendations
+
+### 🔹 Identity & Access Management
+
+- **Access Controls Worksheet**
+  - IAM
+  - Access control
+  - Least privilege
+
+- **Data Leak Worksheet**
+  - Access management
+  - Data protection
+  - Security controls
+
+### 🔹 Linux & Python
+
+- **File Permissions in Linux**
+  - Linux
+  - File permissions
+  - Access control
+
+- **Update a File Through a Python Algorithm**
+  - Python
+  - Automation
+  - File manipulation
+
+👉 **Explore the full portfolio:**
+
+[![Cybersecurity Portfolio](https://img.shields.io/badge/Cybersecurity-Portfolio-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frannr17/cybersecurity-portfolio)
 
 ---
 
-## 📜 Certifications
+## 🎯 Career Direction
 
-Current:
+I'm currently pursuing entry-level opportunities in cybersecurity, particularly roles related to:
 
-- Google Cybersecurity Professional Certificate *(In Progress)*
+- Security Operations Center (SOC)
+- Junior Cybersecurity Analyst
+- SOC Analyst
+- Security Operations
+- Junior Incident Response
+- Vulnerability Management
+- Security Monitoring
+- Threat Detection
 
-Planned:
+As I develop deeper technical expertise, my long-term direction is toward:
 
-- CompTIA Security+
-- Splunk Core Certified User
-- Microsoft SC-200
-- Google Cloud Cybersecurity Certificate
+**Threat Hunting → Threat Intelligence → Detection Engineering → Security Automation**
 
----
+with an additional specialization in:
 
-## 📂 Portfolio Projects
-
-| Project | Main Skills |
-|----------|-------------|
-| Apply Filters to SQL Queries | SQL, Log Analysis |
-| File Permissions in Linux | Linux, Access Control |
-| Update a File Through a Python Algorithm | Python, Automation |
-| PASTA Threat Model | Threat Modeling |
-| Parking Lot USB Exercise | Risk Analysis |
-| Vulnerability Assessment Report | Vulnerability Assessment |
-| Access Controls Worksheet | IAM |
-| Data Leak Worksheet | Least Privilege |
-| Risk Register | Risk Management |
-| Incident Final Report | Incident Response |
+**AI Agents → AI Orchestration → AI-assisted Cybersecurity Operations**
 
 ---
 
 ## 📚 Currently Learning
 
-I'm continuously expanding my cybersecurity skills through:
+I'm continuously expanding my technical capabilities through structured learning and hands-on practice.
 
-- Google Cybersecurity Professional Certificate
-- Hands-on Linux practice
-- Python scripting
-- SQL for security investigations
-- SIEM technologies
-- Threat detection methodologies
-- Risk management frameworks
-- Security Operations Center (SOC) workflows
 
-Future learning goals include:
+### AI & Orchestration
 
-- Splunk Enterprise Security
+Currently studying:
+
+- AI Agents
+- Agentic workflows
+- AI orchestration
+- LLM applications
+- Tool integration
+- Workflow automation
+- AI-assisted analysis
+
+### Future Areas
+
+- Threat Hunting
+- Threat Intelligence
+- Detection Engineering
+- Digital Forensics
+- Malware Analysis
 - Microsoft Sentinel
 - Microsoft Defender XDR
+- Splunk Enterprise Security
+- Cloud Security
 - AWS Security
 - Azure Security
-- Malware Analysis
-- Digital Forensics
 
 ---
 
-## 📫 Contact
+## 🌎 Languages
 
-LinkedIn
+One of my strongest differentiators is my ability to operate across multilingual and multicultural environments.
 
+| Language | Proficiency |
+|----------|-------------|
+| 🇦🇷 Spanish | Native |
+| 🇺🇸 English | Fluent — C1 |
+| 🇫🇷 French | Fluent — C1 |
+| 🇧🇷 Portuguese | Intermediate — B2 |
+| 🇮🇹 Italian | Intermediate — B2 |
+| 🇩🇪 German | Basic / Intermediate — A2–B1 |
 
-
-GitHub
-
+My multilingual background has strengthened my **communication, adaptability, cross-cultural collaboration, and ability to work with diverse teams**.
 
 ---
 
-Thank you for visiting my portfolio.
+## 🧩 Professional Background
 
-I'm committed to continuous learning and look forward to contributing to cybersecurity teams by applying technical knowledge, analytical thinking, and a security-first mindset.
+Before transitioning into cybersecurity, I developed experience in areas involving:
+
+- Business development
+- Client communication
+- Operations
+- Problem-solving
+- Cross-cultural communication
+- Risk awareness
+- Process management
+
+This background gives me a complementary perspective to my technical training.
+
+I believe cybersecurity is not only about technology — it also requires **communication, critical thinking, structured decision-making, and the ability to understand how people and organizations operate.**
+
+---
+
+## 🚀 What I'm Building
+
+This GitHub profile documents my transition into cybersecurity and my continued development toward more advanced security roles.
+
+I'm particularly interested in building projects that demonstrate:
+
+```text
+Cybersecurity
+     │
+     ├── Security Operations
+     │       ├── Detection
+     │       ├── Investigation
+     │       └── Incident Response
+     │
+     ├── Threat Intelligence
+     │       ├── Threat Research
+     │       ├── IOC Analysis
+     │       └── Threat Hunting
+     │
+     ├── Security Automation
+     │       ├── Python
+     │       ├── SIEM
+     │       └── Automated Workflows
+     │
+     └── AI + Cybersecurity
+             ├── AI Agents
+             ├── Orchestration
+             └── AI-assisted Security Operations
